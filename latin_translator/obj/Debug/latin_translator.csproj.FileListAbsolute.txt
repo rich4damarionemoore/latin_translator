@@ -1,0 +1,10 @@
+C:\Users\DJ\Desktop\fall_projects\latin_translator\latin_translator\bin\Debug\latin_translator.exe.config
+C:\Users\DJ\Desktop\fall_projects\latin_translator\latin_translator\bin\Debug\latin_translator.exe
+C:\Users\DJ\Desktop\fall_projects\latin_translator\latin_translator\bin\Debug\latin_translator.pdb
+C:\Users\DJ\Desktop\fall_projects\latin_translator\latin_translator\obj\Debug\latin_translator.csprojAssemblyReference.cache
+C:\Users\DJ\Desktop\fall_projects\latin_translator\latin_translator\obj\Debug\latin_translator.frmLatintranslator.resources
+C:\Users\DJ\Desktop\fall_projects\latin_translator\latin_translator\obj\Debug\latin_translator.Properties.Resources.resources
+C:\Users\DJ\Desktop\fall_projects\latin_translator\latin_translator\obj\Debug\latin_translator.csproj.GenerateResource.cache
+C:\Users\DJ\Desktop\fall_projects\latin_translator\latin_translator\obj\Debug\latin_translator.csproj.CoreCompileInputs.cache
+C:\Users\DJ\Desktop\fall_projects\latin_translator\latin_translator\obj\Debug\latin_translator.exe
+C:\Users\DJ\Desktop\fall_projects\latin_translator\latin_translator\obj\Debug\latin_translator.pdb
